@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<Answer>
+  <Field>
+    <Items>
+      <Item>
+        <YouInfo1>you_string</YouInfo1>
+        <YouInfo2>1</YouInfo2>
+        <YouInfo3>you_long_text</YouInfo3>
+      </Item>
+      <Item>
+        <YouInfo1>default</YouInfo1>
+        <YouInfo2>2</YouInfo2>
+        <YouInfo3>you_long_text_2</YouInfo3>
+      </Item>
+    </Items>
+  </Field>
+  <OtherField>1233455666</OtherField>
+  <OtherField2>1234</OtherField2>
+</Answer>
